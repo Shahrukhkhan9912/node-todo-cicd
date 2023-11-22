@@ -12,7 +12,6 @@ Run these commands:
 `npm install`
 
 `node app.js`
-` testing code `
 
 or Run by docker compose
 
